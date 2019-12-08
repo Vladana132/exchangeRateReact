@@ -1,0 +1,12 @@
+.Posts {
+    position: relative;
+    width: min-content;
+    margin: 1em auto;
+    padding: 20%;
+    background: rgb(235, 245, 248);
+    border: 1px solid rgba(247, 246, 246, 0.1);
+    padding: 6em;
+     width: 1250px;
+     box-shadow: 5px 10px #888888;
+
+}
